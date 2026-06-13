@@ -44,4 +44,4 @@ This project directly demonstrates core Object-Oriented Programming (OOP) princi
 
 1. Clone this repository to your local machine:
 ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/Java-OOP-GUI-The-Little-Book-Haven.git](https://github.com/YOUR_GITHUB_USERNAME/Java-OOP-GUI-The-Little-Book-Haven.git)
+   git clone [https://github.com/Malindu Indumina/Java-OOP-GUI-The-Little-Book-Haven.git](https://github.com/YOUR_GITHUB_USERNAME/Java-OOP-GUI-The-Little-Book-Haven.git)
